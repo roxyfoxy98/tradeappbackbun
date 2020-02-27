@@ -1,0 +1,85 @@
+2019-10-31 15:44:32,669  INFO [Customer_Thread - 3 ] - ing.stockmarket.Utils.generateRandomCustomers 294 - Start to generate a random array of numbers!
+2019-10-31 15:44:32,669  INFO [Transaction_Thread - 3 ] - ing.stockmarket.Utils.generateRandomTransaction 266 - Start to generate a random array of numbers!
+2019-10-31 15:44:32,669  INFO [Instrument_Thread - 3 ] - ing.stockmarket.Utils.generateRandomInstruments 325 - Start to generate a random array of numbers!
+2019-10-31 15:44:32,676  INFO [Instrument_Thread - 3 ] - ing.stockmarket.InstrumentThread.run 54 - Start generating random transaction!
+2019-10-31 15:44:32,678  INFO [Transaction_Thread - 3 ] - ing.stockmarket.TransactionThread.run 54 - Start generating random transaction!
+2019-10-31 15:44:32,676  INFO [Customer_Thread - 3 ] - ing.stockmarket.CustomerThread.run 54 - Start generating random transaction!
+2019-10-31 15:44:32,679  INFO [Transaction_Thread - 3 ] - ing.stockmarket.Utils.writeCSVTransaction 114 - Starting write user.csv file: C:\Users\MH90UT\GeneratedFile\generatedfile11.csv
+2019-10-31 15:44:32,678  INFO [Instrument_Thread - 3 ] - ing.stockmarket.Utils.writeCSVInstruments 212 - Starting write user.csv file: C:\Users\MH90UT\GeneratedFile\generatedfile13.csv
+2019-10-31 15:44:32,680  INFO [Customer_Thread - 3 ] - ing.stockmarket.Utils.writeCSVCustomers 161 - Starting write user.csv file: C:\Users\MH90UT\GeneratedFile\generatedfile12.csv
+2019-10-31 15:44:32,685  INFO [Instrument_Thread - 3 ] - ing.stockmarket.Utils.writeCSVInstruments 251 - This file was closed successful!
+
+2019-10-31 15:44:32,685  INFO [Customer_Thread - 3 ] - ing.stockmarket.Utils.writeCSVCustomers 197 - This file was closed successful!
+
+2019-10-31 15:44:32,701  INFO [Transaction_Thread - 3 ] - ing.stockmarket.Utils.writeCSVTransaction 146 - This file was closed successful!
+
+2019-10-31 15:44:49,663  INFO [Instrument_Thread - 1 ] - ing.stockmarket.Utils.generateRandomInstruments 325 - Start to generate a random array of numbers!
+2019-10-31 15:44:49,663  INFO [Customer_Thread - 1 ] - ing.stockmarket.Utils.generateRandomCustomers 294 - Start to generate a random array of numbers!
+2019-10-31 15:44:49,663  INFO [Instrument_Thread - 1 ] - ing.stockmarket.InstrumentThread.run 54 - Start generating random transaction!
+2019-10-31 15:44:49,663  INFO [Customer_Thread - 1 ] - ing.stockmarket.CustomerThread.run 54 - Start generating random transaction!
+2019-10-31 15:44:49,663  INFO [Transaction_Thread - 1 ] - ing.stockmarket.Utils.generateRandomTransaction 266 - Start to generate a random array of numbers!
+2019-10-31 15:44:49,663  INFO [Instrument_Thread - 1 ] - ing.stockmarket.Utils.writeCSVInstruments 212 - Starting write user.csv file: C:\Users\MH90UT\GeneratedFile\generatedfile13.csv
+2019-10-31 15:44:49,664  INFO [Customer_Thread - 1 ] - ing.stockmarket.Utils.writeCSVCustomers 161 - Starting write user.csv file: C:\Users\MH90UT\GeneratedFile\generatedfile12.csv
+2019-10-31 15:44:49,665  INFO [Transaction_Thread - 1 ] - ing.stockmarket.TransactionThread.run 54 - Start generating random transaction!
+2019-10-31 15:44:49,665  INFO [Transaction_Thread - 1 ] - ing.stockmarket.Utils.writeCSVTransaction 114 - Starting write user.csv file: C:\Users\MH90UT\GeneratedFile\generatedfile11.csv
+2019-10-31 15:44:49,666  INFO [Instrument_Thread - 1 ] - ing.stockmarket.Utils.writeCSVInstruments 251 - This file was closed successful!
+
+2019-10-31 15:44:49,666  INFO [Customer_Thread - 1 ] - ing.stockmarket.Utils.writeCSVCustomers 197 - This file was closed successful!
+
+2019-10-31 15:44:49,682  INFO [Transaction_Thread - 1 ] - ing.stockmarket.Utils.writeCSVTransaction 146 - This file was closed successful!
+
+2019-10-31 15:44:59,616  INFO [pool-1-thread-1] - ing.stockmarket.RunnableTransactionTask.run 29 - Inside of duplication thread!
+2019-10-31 15:44:59,616  INFO [pool-1-thread-2] - ing.stockmarket.RunnableInstrumentTask.run 29 - Inside of duplication thread!
+2019-10-31 15:44:59,617  INFO [pool-1-thread-1] - ing.stockmarket.RunnableCustomerTask.run 33 - Inside of duplication thread!
+2019-10-31 15:45:29,615  INFO [pool-1-thread-3] - ing.stockmarket.RunnableTransactionTask.run 29 - Inside of duplication thread!
+2019-10-31 15:45:29,616  INFO [pool-1-thread-2] - ing.stockmarket.RunnableInstrumentTask.run 29 - Inside of duplication thread!
+2019-10-31 15:45:29,617  INFO [pool-1-thread-1] - ing.stockmarket.RunnableCustomerTask.run 33 - Inside of duplication thread!
+2019-10-31 15:45:59,615  INFO [pool-1-thread-3] - ing.stockmarket.RunnableTransactionTask.run 29 - Inside of duplication thread!
+2019-10-31 15:45:59,615  INFO [pool-1-thread-3] - ing.stockmarket.RunnableInstrumentTask.run 29 - Inside of duplication thread!
+2019-10-31 15:45:59,617  INFO [pool-1-thread-2] - ing.stockmarket.RunnableCustomerTask.run 33 - Inside of duplication thread!
+2019-10-31 15:46:29,615  INFO [pool-1-thread-1] - ing.stockmarket.RunnableTransactionTask.run 29 - Inside of duplication thread!
+2019-10-31 15:46:29,618  INFO [pool-1-thread-3] - ing.stockmarket.RunnableInstrumentTask.run 29 - Inside of duplication thread!
+2019-10-31 15:46:29,618  INFO [pool-1-thread-2] - ing.stockmarket.RunnableCustomerTask.run 33 - Inside of duplication thread!
+2019-10-31 15:46:59,616  INFO [pool-1-thread-1] - ing.stockmarket.RunnableTransactionTask.run 29 - Inside of duplication thread!
+2019-10-31 15:46:59,616  INFO [pool-1-thread-3] - ing.stockmarket.RunnableInstrumentTask.run 29 - Inside of duplication thread!
+2019-10-31 15:46:59,617  INFO [pool-1-thread-3] - ing.stockmarket.RunnableCustomerTask.run 33 - Inside of duplication thread!
+2019-10-31 15:47:29,616  INFO [pool-1-thread-2] - ing.stockmarket.RunnableTransactionTask.run 29 - Inside of duplication thread!
+2019-10-31 15:47:29,616  INFO [pool-1-thread-1] - ing.stockmarket.RunnableInstrumentTask.run 29 - Inside of duplication thread!
+2019-10-31 15:47:29,616  INFO [pool-1-thread-2] - ing.stockmarket.RunnableCustomerTask.run 33 - Inside of duplication thread!
+2019-10-31 15:47:59,616  INFO [pool-1-thread-3] - ing.stockmarket.RunnableTransactionTask.run 29 - Inside of duplication thread!
+2019-10-31 15:47:59,616  INFO [pool-1-thread-3] - ing.stockmarket.RunnableInstrumentTask.run 29 - Inside of duplication thread!
+2019-10-31 15:47:59,617  INFO [pool-1-thread-1] - ing.stockmarket.RunnableCustomerTask.run 33 - Inside of duplication thread!
+2019-10-31 15:48:29,615  INFO [pool-1-thread-2] - ing.stockmarket.RunnableTransactionTask.run 29 - Inside of duplication thread!
+2019-10-31 15:48:29,615  INFO [pool-1-thread-2] - ing.stockmarket.RunnableInstrumentTask.run 29 - Inside of duplication thread!
+2019-10-31 15:48:29,616  INFO [pool-1-thread-3] - ing.stockmarket.RunnableCustomerTask.run 33 - Inside of duplication thread!
+2019-10-31 15:48:59,615  INFO [pool-1-thread-1] - ing.stockmarket.RunnableTransactionTask.run 29 - Inside of duplication thread!
+2019-10-31 15:48:59,617  INFO [pool-1-thread-2] - ing.stockmarket.RunnableInstrumentTask.run 29 - Inside of duplication thread!
+2019-10-31 15:48:59,617  INFO [pool-1-thread-3] - ing.stockmarket.RunnableCustomerTask.run 33 - Inside of duplication thread!
+2019-10-31 15:49:29,615  INFO [pool-1-thread-1] - ing.stockmarket.RunnableTransactionTask.run 29 - Inside of duplication thread!
+2019-10-31 15:49:29,616  INFO [pool-1-thread-1] - ing.stockmarket.RunnableInstrumentTask.run 29 - Inside of duplication thread!
+2019-10-31 15:49:29,616  INFO [pool-1-thread-2] - ing.stockmarket.RunnableCustomerTask.run 33 - Inside of duplication thread!
+2019-10-31 15:49:29,663  INFO [Transaction_Thread - 2 ] - ing.stockmarket.Utils.generateRandomTransaction 266 - Start to generate a random array of numbers!
+2019-10-31 15:49:29,663  INFO [Customer_Thread - 2 ] - ing.stockmarket.Utils.generateRandomCustomers 294 - Start to generate a random array of numbers!
+2019-10-31 15:49:29,663  INFO [Instrument_Thread - 2 ] - ing.stockmarket.Utils.generateRandomInstruments 325 - Start to generate a random array of numbers!
+2019-10-31 15:49:29,664  INFO [Instrument_Thread - 2 ] - ing.stockmarket.InstrumentThread.run 54 - Start generating random transaction!
+2019-10-31 15:49:29,664  INFO [Instrument_Thread - 2 ] - ing.stockmarket.Utils.writeCSVInstruments 212 - Starting write user.csv file: C:\Users\MH90UT\GeneratedFile\generatedfile13.csv
+2019-10-31 15:49:29,665  INFO [Transaction_Thread - 2 ] - ing.stockmarket.TransactionThread.run 54 - Start generating random transaction!
+2019-10-31 15:49:29,665  INFO [Transaction_Thread - 2 ] - ing.stockmarket.Utils.writeCSVTransaction 114 - Starting write user.csv file: C:\Users\MH90UT\GeneratedFile\generatedfile11.csv
+2019-10-31 15:49:29,666  INFO [Instrument_Thread - 2 ] - ing.stockmarket.Utils.writeCSVInstruments 251 - This file was closed successful!
+
+2019-10-31 15:49:29,671  INFO [Customer_Thread - 2 ] - ing.stockmarket.CustomerThread.run 54 - Start generating random transaction!
+2019-10-31 15:49:29,671  INFO [Customer_Thread - 2 ] - ing.stockmarket.Utils.writeCSVCustomers 161 - Starting write user.csv file: C:\Users\MH90UT\GeneratedFile\generatedfile12.csv
+2019-10-31 15:49:29,673  INFO [Customer_Thread - 2 ] - ing.stockmarket.Utils.writeCSVCustomers 197 - This file was closed successful!
+
+2019-10-31 15:49:29,677  INFO [Transaction_Thread - 2 ] - ing.stockmarket.Utils.writeCSVTransaction 146 - This file was closed successful!
+
+2019-10-31 15:49:59,616  INFO [pool-1-thread-3] - ing.stockmarket.RunnableTransactionTask.run 29 - Inside of duplication thread!
+2019-10-31 15:49:59,616  INFO [pool-1-thread-1] - ing.stockmarket.RunnableInstrumentTask.run 29 - Inside of duplication thread!
+2019-10-31 15:49:59,618  INFO [pool-1-thread-2] - ing.stockmarket.RunnableCustomerTask.run 33 - Inside of duplication thread!
+2019-10-31 15:50:29,614  INFO [pool-1-thread-3] - ing.stockmarket.RunnableTransactionTask.run 29 - Inside of duplication thread!
+2019-10-31 15:50:29,615  INFO [pool-1-thread-3] - ing.stockmarket.RunnableInstrumentTask.run 29 - Inside of duplication thread!
+2019-10-31 15:50:29,616  INFO [pool-1-thread-3] - ing.stockmarket.RunnableCustomerTask.run 33 - Inside of duplication thread!
+2019-10-31 15:50:59,614  INFO [pool-1-thread-1] - ing.stockmarket.RunnableTransactionTask.run 29 - Inside of duplication thread!
+2019-10-31 15:50:59,615  INFO [pool-1-thread-1] - ing.stockmarket.RunnableInstrumentTask.run 29 - Inside of duplication thread!
+2019-10-31 15:50:59,616  INFO [pool-1-thread-2] - ing.stockmarket.RunnableCustomerTask.run 33 - Inside of duplication thread!
+2019-10-31 15:51:09,616  INFO [main] - ing.stockmarket.SchedulingTasks.shutDown 43 - Gracefully shutting down executor!
